@@ -35,10 +35,10 @@ The system includes:
 | Motor Driver        | L298N or similar                         |
 | Ultrasonic Sensor   | HC-SR04 for distance detection           |
 | Temperature Sensor  | DHT11 for temperature & humidity         |
-| Fire and Gas Sensors| For fire and gas detection                |
-| Servo Motor         | SG90 or MG995                            |
+| Fire and Gas Sensors| For fire and gas detection               |
+| Servo Motor         | SG90                                     |
 | Bluetooth Module    | HC-05 for wireless communication         |
-| Power Source        | External Battery or Power Bank           |
+| Power Source        | External Battery                         |
 | Chassis             | Custom-built with Rocker-Bogie mechanism |
 
 
