@@ -57,13 +57,13 @@ With **6 DC motors** driving **12 wheels**, the system offers excellent mobility
 
 ### 🌍 Suggested Applications
 
-1. **🗿 Archaeological and Tourism Site Exploration**  
+ **🗿 Archaeological and Tourism Site Exploration**  
    Enables non-invasive monitoring of sensitive or restricted areas, such as Egypt’s *Siwa Oasis* and *Western Desert* archaeological zones.
 
-2. **🌾 Smart Agriculture in Arid Regions**  
+ **🌾 Smart Agriculture in Arid Regions**  
    Assists in crop management by autonomously surveying fields, measuring soil moisture and temperature, and transmitting alerts to farmers via the app.
 
-3. **🚨 Disaster Response Operations**  
+ **🚨 Disaster Response Operations**  
    Safely assesses hazardous environments, such as gas leaks or fire-prone zones, prior to human intervention — enhancing safety protocols.
 
 ---
