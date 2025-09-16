@@ -4,6 +4,14 @@
 
 ---
 
+
+## 🎥 Project Video
+
+You can watch the demo video here:  
+[Project Demo Video](https://drive.google.com/file/d/1LpjWG3qay0_qdufBdIlzgO6Jy-xcpyDJ/view?usp=drivesdk)
+
+---
+
 ## 📌 Project Overview
 
 This project is a fully functional rover vehicle controlled remotely using the **RemoteXY** mobile application and an **Arduino** board.  
@@ -78,8 +86,3 @@ This allows the rover to:
 - Climb over obstacles efficiently.
 - Distribute load across all wheels.
 - Reduce shock impact.
-
----
-
-## 📁 Project Structure
-
