@@ -39,21 +39,6 @@ The system includes:
 
 ---
 
-## ⚙️ Rocker-Bogie System & Applications
-
-### 🛞 What is the Rocker-Bogie System?
-
-The rover is equipped with a **Rocker-Bogie suspension system**, a passive mechanical design famously used in NASA's Mars rovers.  
-It enables:
-
-- 🧗‍♂️ Smooth navigation over uneven terrain and rocky surfaces.  
-- 🔄 Continuous ground contact across all wheels for stability.  
-- 🪨 Climbing over obstacles up to twice the wheel diameter.  
-- ⚖️ Balanced weight distribution without complex electronics or shock absorbers.
-
-With **6 DC motors** driving **12 wheels**, the system offers excellent mobility and adaptability in outdoor or rugged environments.
-
----
 
 ### 🌍 Suggested Applications
 
