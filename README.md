@@ -1,10 +1,6 @@
 # 🚀 Galaxy Robust Versatile Rover (Galaxy RVR)
 
 ![Rover Image](https://github.com/abdallah3z22/Rover-Vehicle-project/blob/main/media/Galaxy%20RVR%209.jpg)
-
----
-
-
 ## 🎥 Project Video
 
 You can watch the demo video here:  
