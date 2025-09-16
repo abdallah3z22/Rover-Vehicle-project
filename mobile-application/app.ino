@@ -72,12 +72,9 @@ struct {
 //           END RemoteXY include          //
 /////////////////////////////////////////////
 
-
-
 void setup() 
 {
-  RemoteXY_Init (); 
-  
+  RemoteXY_Init ();  
   
   // TODO you setup code
   
@@ -86,11 +83,7 @@ void setup()
 void loop() 
 { 
   RemoteXY_Handler ();
-  
-  
   // TODO you loop code
   // use the RemoteXY structure for data transfer
   // do not call delay(), use instead RemoteXY_delay() 
-
-
 }
