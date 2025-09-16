@@ -22,8 +22,8 @@ The system includes:
 ## 🔩 Hardware Specifications
 
 | Component         | Description                              |
-|------------------|------------------------------------------|
-| Arduino Board     | Uno / Nano / Mega                        |
+|-------------------|------------------------------------------|
+| Arduino Board     | Uno                                      |
 | Motors            | 6 × DC Motors                            |
 | Wheels            | 12 total (2 per motor)                   |
 | Motor Driver      | L298N or similar                         |
