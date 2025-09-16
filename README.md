@@ -10,32 +10,37 @@ You can watch the demo video here:
 
 ## 📌 Project Overview
 
-This project is a fully functional rover vehicle controlled remotely using the **RemoteXY** mobile application and an **Arduino** board.  
+This project is a fully functional rover vehicle controlled remotely using a mobile application and an **Arduino** board.  
 The system includes:
 
-- Real-time temperature and humidity sensing using **DHT11**.
-- Obstacle distance measurement via **Ultrasonic Sensor** (HC-SR04).
-- Movement control using a **joystick interface**.
-- Servo motor control via slider.
-- Sound alerts triggered by specific sensor states.
-- Rocker-Bogie suspension system for rough terrain.
-- 6 DC motors and 12 wheels for enhanced mobility and load balance.
+- 🌡️ Real-time temperature and humidity sensing using **DHT11**.
+- 📏 Obstacle distance measurement via **Ultrasonic Sensor** (HC-SR04).
+- 🎮 Movement control using a **joystick interface**.
+- 🎛️ Servo motor control via slider.
+- 🔥🛑 Fire and gas detection sensors for enhanced safety monitoring.
+- 🔔 Sound alerts triggered by specific sensor states.
+- 🚙 Rocker-Bogie suspension system for rough terrain.
+- ⚙️ 6 DC motors and 12 wheels for enhanced mobility and load balance.
+- 📱 Intuitive mobile interface for real-time control and data monitoring.
 
 ---
 
 ## 🔩 Hardware Specifications
 
-| Component         | Description                              |
-|-------------------|------------------------------------------|
-| Arduino Board     | Uno                                      |
-| Motors            | 6 × DC Motors                            |
-| Wheels            | 12 total (2 per motor)                   |
-| Motor Driver      | L298N or similar                         |
-| Ultrasonic Sensor | HC-SR04 for distance detection           |
-| Temperature Sensor| DHT11 for temperature & humidity         |
-| Servo Motor       | SG90 or MG995                            |
-| Power Source      | External Battery or Power Bank           |
-| Chassis           | Custom-built with Rocker-Bogie mechanism |
+| Component           | Description                              |
+|---------------------|------------------------------------------|
+| Arduino Board       | Uno                                      |
+| Motors              | 6 × DC Motors                            |
+| Wheels              | 12 total (2 per motor)                   |
+| Motor Driver        | L298N or similar                         |
+| Ultrasonic Sensor   | HC-SR04 for distance detection           |
+| Temperature Sensor  | DHT11 for temperature & humidity         |
+| Fire and Gas Sensors| For fire and gas detection                |
+| Servo Motor         | SG90 or MG995                            |
+| Bluetooth Module    | HC-05 for wireless communication         |
+| Power Source        | External Battery or Power Bank           |
+| Chassis             | Custom-built with Rocker-Bogie mechanism |
+
 
 ---
 
@@ -50,16 +55,3 @@ The system includes:
 
  **🚨 Disaster Response Operations**  
    Safely assesses hazardous environments, such as gas leaks or fire-prone zones, prior to human intervention — enhancing safety protocols.
-
----
-
-## 📲 App Interface
-
-The app interface includes:
-- A joystick for motor control.
-- A slider for servo motor.
-- Text display for temperature and humidity.
-- Distance value display.
-- Sound indicators.
-- Visual levels for temperature and humidity.
-
