@@ -39,29 +39,36 @@ The system includes:
 
 ---
 
-## ⚙️ Functionalities
+## ⚙️ Rocker-Bogie System & Applications
 
-- **Movement Control:**  
-  Control forward, backward, left, and right using joystick.
+### 🛞 What is the Rocker-Bogie System?
 
-- **Servo Control:**  
-  Adjust the servo motor angle using a slider.
+The rover is designed with a **Rocker-Bogie suspension system**, the same mechanism used in NASA’s Mars rovers.  
+This mechanical design allows the rover to:
 
-- **Environmental Monitoring:**  
-  View real-time temperature and humidity on the app.
+- Navigate rough and uneven terrain smoothly.
+- Maintain wheel contact with the ground at all times.
+- Climb over obstacles (rocks, inclines) up to twice the wheel diameter.
+- Balance itself without requiring active suspension or springs.
 
-- **Obstacle Detection:**  
-  Ultrasonic sensor displays distance, with warnings if out of range.
-
-- **Sound Alerts:**  
-  Plays a sound when specific conditions (e.g., digital inputs A0/A1) are met.
-
-- **Connection Status:**  
-  Shows whether the rover is connected to the mobile app.
+With **6 independent motors and 12 wheels**, this rover ensures high stability, load distribution, and movement flexibility — making it ideal for off-road environments.
 
 ---
 
-## 📲 RemoteXY Interface
+### 🌍 Suggested Applications
+
+- **🗿 Archaeological and Tourism Site Exploration**  
+  Navigate through ancient ruins or rough landscapes while collecting environmental data without disturbing fragile structures.
+
+- **🌱 Smart Agriculture in Arid Regions**  
+  Monitor soil and climate conditions remotely in hard-to-reach farming areas to support irrigation and crop decisions.
+
+- **🚨 Disaster Response Operations**  
+  Deploy the rover in unsafe or collapsed areas after earthquakes or floods to detect obstacles and provide real-time environmental monitoring.
+
+---
+
+## 📲 App Interface
 
 The app interface includes:
 - A joystick for motor control.
@@ -71,14 +78,3 @@ The app interface includes:
 - Sound indicators.
 - Visual levels for temperature and humidity.
 
----
-
-## 🧠 Rocker-Bogie Suspension
-
-The rover uses a **Rocker-Bogie** system — a passive suspension mechanism originally designed by NASA for Mars rovers.  
-This allows the rover to:
-
-- Maintain balance over uneven terrain.
-- Climb over obstacles efficiently.
-- Distribute load across all wheels.
-- Reduce shock impact.
