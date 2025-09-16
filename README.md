@@ -43,28 +43,28 @@ The system includes:
 
 ### 🛞 What is the Rocker-Bogie System?
 
-The rover is designed with a **Rocker-Bogie suspension system**, the same mechanism used in NASA’s Mars rovers.  
-This mechanical design allows the rover to:
+The rover is equipped with a **Rocker-Bogie suspension system**, a passive mechanical design famously used in NASA's Mars rovers.  
+It enables:
 
-- Navigate rough and uneven terrain smoothly.
-- Maintain wheel contact with the ground at all times.
-- Climb over obstacles (rocks, inclines) up to twice the wheel diameter.
-- Balance itself without requiring active suspension or springs.
+- Smooth navigation over uneven terrain and rocky surfaces.
+- Continuous ground contact across all wheels for stability.
+- Climbing over obstacles up to twice the wheel diameter.
+- Balanced weight distribution without complex electronics or shock absorbers.
 
-With **6 independent motors and 12 wheels**, this rover ensures high stability, load distribution, and movement flexibility — making it ideal for off-road environments.
+With **6 DC motors** driving **12 wheels**, the system offers excellent mobility and adaptability in outdoor or rugged environments.
 
 ---
 
 ### 🌍 Suggested Applications
 
-- **🗿 Archaeological and Tourism Site Exploration**  
-  Navigate through ancient ruins or rough landscapes while collecting environmental data without disturbing fragile structures.
+ **Archaeological and Tourism Site Exploration:**  
+   Enables non-invasive monitoring of sensitive or restricted areas, such as Egypt’s *Siwa Oasis* and *Western Desert* archaeological zones.
 
-- **🌱 Smart Agriculture in Arid Regions**  
-  Monitor soil and climate conditions remotely in hard-to-reach farming areas to support irrigation and crop decisions.
+ **Smart Agriculture in Arid Regions:**  
+   Assists in crop management by autonomously surveying fields, measuring soil moisture and temperature, and transmitting alerts to farmers via the app.
 
-- **🚨 Disaster Response Operations**  
-  Deploy the rover in unsafe or collapsed areas after earthquakes or floods to detect obstacles and provide real-time environmental monitoring.
+ **Disaster Response Operations:**  
+   Safely assesses hazardous environments, such as gas leaks or fire-prone zones, prior to human intervention — enhancing safety protocols.
 
 ---
 
