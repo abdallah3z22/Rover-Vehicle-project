@@ -45,7 +45,7 @@ The system includes:
 ---
 
 
-### 🌍 Suggested Applications
+## 🌍 Suggested Applications
 
  **🗿 Archaeological and Tourism Site Exploration**  
    Enables non-invasive monitoring of sensitive or restricted areas, such as Egypt’s *Siwa Oasis* and *Western Desert* archaeological zones.
